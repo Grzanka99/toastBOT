@@ -1,0 +1,14 @@
+{
+    "name": "testowy-bot",
+    "version": "1.0.0",
+    "description": "admin plsplspls",
+    "main": "bot.js",
+    "author": "Cezary Grzanka",
+    "dependencies": {
+        "discord.js": "^11.3.2",
+        "mysql": "^2.16.0",
+        "node-gyp": "^3.7.0",
+        "npm": "^6.2.0",
+        "sync-mysql": "^3.0.1"
+    }
+}
